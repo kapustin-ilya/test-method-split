@@ -1,0 +1,19 @@
+Mode  Cnt      Score       Error  Units
+
+TestFourDesign.testForFirstDesign
+avgt    3    320.830 ±   125.259  ms/op
+avgt    3   3886.088 ±  3039.918  ms/op
+avgt    3   5138.941 ±  3215.981  ms/op
+avgt    3   8758.954 ± 22589.685  ms/op
+
+TestFourDesign.testForMyFirstDesign
+avgt    3   1036.650 ±  3653.037  ms/op
+avgt    3   5371.485 ± 28595.477  ms/op
+avgt    3   5155.509 ±  2496.417  ms/op
+avgt    3  11121.626 ±  8334.861  ms/op
+
+TestFourDesign.testForSecondDesign
+avgt    3     61.433 ±   164.896  ms/op
+avgt    3    590.956 ±  2398.225  ms/op
+avgt    3    559.674 ±  2197.039  ms/op
+avgt    3   1053.863 ±   835.487  ms/op
